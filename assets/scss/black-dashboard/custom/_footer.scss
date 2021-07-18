@@ -1,6 +1,6 @@
 .footer{
     padding: 24px 30px;
-
+	
     [class*="container-"] {
       padding: 0;
     }
@@ -86,9 +86,16 @@
 }
 
 @include media-breakpoint-down(sm){
+  .content {
+   padding-bottom:60px !important;
+  }
+}
+
+@include media-breakpoint-down(sm){
   .footer {
     .copyright {
       text-align: center;
+	  
     }
     .nav {
       float: none;
