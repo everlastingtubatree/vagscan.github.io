@@ -12753,7 +12753,7 @@ textarea.form-control {
     .navbar .navbar-toggler-bar + .navbar-toggler-bar.navbar-kebab {
       margin-top: 0px; }
     .navbar .navbar-toggler-bar.bar2 {
-      width: 17px;
+      width: 20px;
       transition: width .2s linear; }
   .navbar.bg-white:not(.navbar-transparent) .navbar-toggler-bar {
     background-color: #344675; }
