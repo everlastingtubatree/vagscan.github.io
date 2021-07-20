@@ -271,10 +271,10 @@
       .navbar-toggler-bar{
           display: block;
           position: relative;
-          width: 22px;
-          height: 1px;
-          border-radius: 1px;
-          background: $white;
+		width: 30px;
+		height: 3px;
+		border-radius: 1px;
+		background: #33fdfc;
 
           &.navbar-kebab{
             height: 4px;

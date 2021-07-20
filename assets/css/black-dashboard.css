@@ -12739,10 +12739,10 @@ textarea.form-control {
   .navbar .navbar-toggler-bar {
     display: block;
     position: relative;
-    width: 22px;
-    height: 1px;
+    width: 30px;
+    height: 3px;
     border-radius: 1px;
-    background: #ffffff; }
+    background: #33fdfc; }
     .navbar .navbar-toggler-bar.navbar-kebab {
       height: 4px;
       width: 4px;
