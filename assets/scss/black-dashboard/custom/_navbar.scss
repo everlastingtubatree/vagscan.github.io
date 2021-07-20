@@ -271,7 +271,7 @@
       .navbar-toggler-bar{
           display: block;
           position: relative;
-		width: 40px;
+		width: 30px;
 		height: 3px;
 		border-radius: 1px;
 		background: #33fdfc;
@@ -292,7 +292,7 @@
           }
 
           &.bar2{
-              width: 25px;
+              width: 20px;
               transition: width .2s linear;
           }
       }
@@ -454,14 +454,14 @@
   }
 
   .navbar .navbar-toggler-bar.bar2 {
-    width: 25px;
+    width: 20px;
     transition: width .2s linear;
 }
 
   .navbar .navbar-toggler-bar {
     display: block;
     position: relative !important;
-    width: 40px;
+    width: 30px;
     height: 3px;
     border-radius: 1px;
     background: #33fdfc;

@@ -12739,7 +12739,7 @@ textarea.form-control {
   .navbar .navbar-toggler-bar {
     display: block;
     position: relative;
-    width: 40px;
+    width: 30px;
     height: 3px;
     border-radius: 1px;
     background: #33fdfc; }
@@ -12753,7 +12753,7 @@ textarea.form-control {
     .navbar .navbar-toggler-bar + .navbar-toggler-bar.navbar-kebab {
       margin-top: 0px; }
     .navbar .navbar-toggler-bar.bar2 {
-      width: 25px;
+      width: 20px;
       transition: width .2s linear; }
   .navbar.bg-white:not(.navbar-transparent) .navbar-toggler-bar {
     background-color: #344675; }
@@ -13079,12 +13079,12 @@ textarea.form-control {
     100% {
       opacity: 1; } }
   .navbar .navbar-toggler-bar.bar2 {
-    width: 25px;
+    width: 20px;
     transition: width .2s linear; }
   .navbar .navbar-toggler-bar {
     display: block;
     position: relative !important;
-    width: 40px;
+    width: 30px;
     height: 3px;
     border-radius: 1px;
     background: #33fdfc; }
