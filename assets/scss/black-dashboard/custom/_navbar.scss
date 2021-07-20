@@ -454,17 +454,17 @@
   }
 
   .navbar .navbar-toggler-bar.bar2 {
-    width: 17px;
+    width: 20px;
     transition: width .2s linear;
 }
 
   .navbar .navbar-toggler-bar {
     display: block;
     position: relative !important;
-    width: 22px;
-    height: 1px;
+    width: 30px;
+    height: 3px;
     border-radius: 1px;
-    background: $white;
+    background: #33fdfc;
   }
   .navbar .navbar-toggler-bar+.navbar-toggler-bar {
     margin-top: 7px;
